@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering Fundamentals Project</title>
-    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://example.com/</link>
+    <atom:link href="https://fgcu-softwareengineeringproject.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://fgcu-softwareengineeringproject.github.io/</link>
     <description>some description text</description>
-    <pubDate>Thu, 20 Aug 2015 13:15:43 -0400</pubDate>
+    <pubDate>Thu, 20 Aug 2015 13:20:12 -0400</pubDate>
     
       <item>
         <title>Sample post</title>
-        <link>http://example.com/2015/08/20/First-Post.html</link>
-        <guid isPermaLink="true">http://example.com/2015/08/20/First-Post.html</guid>
+        <link>https://fgcu-softwareengineeringproject.github.io/2015/08/20/First-Post.html</link>
+        <guid isPermaLink="true">https://fgcu-softwareengineeringproject.github.io/2015/08/20/First-Post.html</guid>
         <description>&lt;p&gt;We will write some stuff here about our progress and what not.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
