@@ -5,7 +5,7 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>some description text</description>
-    <pubDate>Thu, 20 Aug 2015 13:10:33 -0400</pubDate>
+    <pubDate>Thu, 20 Aug 2015 13:15:43 -0400</pubDate>
     
       <item>
         <title>Sample post</title>
