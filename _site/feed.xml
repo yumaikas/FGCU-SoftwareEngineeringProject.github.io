@@ -5,13 +5,13 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>some description text</description>
-    <pubDate>Thu, 20 Aug 2015 13:06:31 -0400</pubDate>
+    <pubDate>Thu, 20 Aug 2015 13:10:33 -0400</pubDate>
     
       <item>
         <title>Sample post</title>
         <link>http://example.com/2015/08/20/First-Post.html</link>
         <guid isPermaLink="true">http://example.com/2015/08/20/First-Post.html</guid>
-        <description>&lt;p&gt;Well will write some stuff here about our progress and what not.&lt;/p&gt;
+        <description>&lt;p&gt;We will write some stuff here about our progress and what not.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
       </item>
